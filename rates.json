@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-23",
+  "presets": [
+    {
+      "id": "tbill6m",
+      "group": "safer",
+      "name": "SG 6-month T-bill",
+      "annualReturnPct": 1.95,
+      "riskLabel": "Govt-backed",
+      "note": "1.95% cut-off yield, 22 Oct 2026 auction",
+      "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar"
+    },
+    {
+      "id": "ssb",
+      "group": "safer",
+      "name": "Singapore Savings Bond",
+      "annualReturnPct": 2.45,
+      "riskLabel": "Govt-backed",
+      "note": "2.45%/yr 10-year average, Nov 2026 issue",
+      "url": "https://www.mas.gov.sg/bonds-and-bills/singapore-savings-bonds"
+    },
+    {
+      "id": "fd12m",
+      "group": "safer",
+      "name": "Fixed deposit (12-month)",
+      "annualReturnPct": 2.1,
+      "riskLabel": "SDIC-insured",
+      "note": "Best 12-mo promo found Oct 2026 (min. S$10k)",
+      "url": "https://growbeansprout.com/insights/savings/singapore-best-fixed-deposit-rate"
+    },
+    {
+      "id": "sgs10y",
+      "group": "safer",
+      "name": "SGS bond (10-year)",
+      "annualReturnPct": 2.34,
+      "riskLabel": "Govt-backed",
+      "note": "10-year SGS yield, 22 Oct 2026",
+      "url": "https://www.mas.gov.sg/bonds-and-bills"
+    },
+    {
+      "id": "sp500",
+      "group": "equities",
+      "name": "S&P 500 index (VOO/SPY)",
+      "annualReturnPct": 10.0,
+      "riskLabel": "Market risk",
+      "note": "~10%/yr long-run historical average",
+      "url": "https://finance.yahoo.com/quote/VOO"
+    },
+    {
+      "id": "aapl",
+      "group": "equities",
+      "name": "Apple (AAPL)",
+      "annualReturnPct": 25.0,
+      "riskLabel": "Single stock",
+      "note": "~25%/yr over the past decade",
+      "url": "https://finance.yahoo.com/quote/AAPL"
+    },
+    {
+      "id": "msft",
+      "group": "equities",
+      "name": "Microsoft (MSFT)",
+      "annualReturnPct": 26.0,
+      "riskLabel": "Single stock",
+      "note": "~26%/yr over the past decade",
+      "url": "https://finance.yahoo.com/quote/MSFT"
+    },
+    {
+      "id": "nvda",
+      "group": "equities",
+      "name": "Nvidia (NVDA)",
+      "annualReturnPct": 70.0,
+      "riskLabel": "Single stock · extreme",
+      "note": "~70%/yr past decade — do NOT expect this to repeat",
+      "url": "https://finance.yahoo.com/quote/NVDA"
+    },
+    {
+      "id": "gold",
+      "group": "equities",
+      "name": "Gold",
+      "annualReturnPct": 9.0,
+      "riskLabel": "Commodity",
+      "note": "~9%/yr long-run",
+      "url": "https://finance.yahoo.com/quote/GC=F"
+    }
+  ]
+}
