@@ -1,41 +1,41 @@
 {
   "schemaVersion": 1,
-  "asOf": "2026-10-23",
+  "asOf": "2026-11-11",
   "presets": [
     {
       "id": "tbill6m",
       "group": "safer",
       "name": "SG 6-month T-bill",
-      "annualReturnPct": 1.95,
+      "annualReturnPct": 1.86,
       "riskLabel": "Govt-backed",
-      "note": "1.95% cut-off yield, 22 Oct 2026 auction",
+      "note": "1.86% cut-off yield, 4 Nov 2026 auction",
       "url": "https://www.mas.gov.sg/bonds-and-bills/auctions-and-issuance-calendar"
     },
     {
       "id": "ssb",
       "group": "safer",
       "name": "Singapore Savings Bond",
-      "annualReturnPct": 2.45,
+      "annualReturnPct": 2.39,
       "riskLabel": "Govt-backed",
-      "note": "2.45%/yr 10-year average, Nov 2026 issue",
+      "note": "2.39%/yr 10-year average, Dec 2026 issue",
       "url": "https://www.mas.gov.sg/bonds-and-bills/singapore-savings-bonds"
     },
     {
       "id": "fd12m",
       "group": "safer",
       "name": "Fixed deposit (12-month)",
-      "annualReturnPct": 2.1,
+      "annualReturnPct": 2.3,
       "riskLabel": "SDIC-insured",
-      "note": "Best 12-mo promo found Oct 2026 (min. S$10k)",
+      "note": "Best 12-mo promo found Nov 2026 (min. S$10k)",
       "url": "https://growbeansprout.com/insights/savings/singapore-best-fixed-deposit-rate"
     },
     {
       "id": "sgs10y",
       "group": "safer",
       "name": "SGS bond (10-year)",
-      "annualReturnPct": 2.34,
+      "annualReturnPct": 2.13,
       "riskLabel": "Govt-backed",
-      "note": "10-year SGS yield, 22 Oct 2026",
+      "note": "10-year SGS yield, 10 Nov 2026",
       "url": "https://www.mas.gov.sg/bonds-and-bills"
     },
     {
